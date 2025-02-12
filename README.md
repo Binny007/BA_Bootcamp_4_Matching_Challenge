@@ -67,7 +67,8 @@ Thus, based on this analysis, there is no significant evidence to suggest that r
 ## 📂 Repository Structure
 
 - `/stackoverflow.csv/` → Dataset containing the survey data of remote and non-remote workers.
-- `/Matching.ipynb/` → Jupyter Notebook containing the code for analysis.
+- `/Matching Challenge.ipynb/` → Jupyter Notebook containing the code for analysis.
+- `/Matching Challenge.pdf` → PDF file containing the detailed challenge description.
 - `README.md` → This file.
 
 ---
